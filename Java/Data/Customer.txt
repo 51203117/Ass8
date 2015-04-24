@@ -1,0 +1,5 @@
+Cust001-Do Viet Huong-Thanh Hoa-03213962009
+Cust002-Luu Duc Hanh-Ha Noi-03213962888
+Cust003-Vu Thu Ha-Ha Noi-03213962004
+Cust004-Pham Thi Huyen Trang-Ha Noi-03213962123
+Cust005-Tang Van Can-Ha Noi-03213962321
